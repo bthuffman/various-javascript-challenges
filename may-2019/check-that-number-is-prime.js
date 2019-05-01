@@ -1,5 +1,5 @@
 //picard
-function test_prime(n)
+function testPrime(n)
 {
 
 	if (n===1)
@@ -22,4 +22,4 @@ function test_prime(n)
 	}
 }
 
-console.log(test_prime(84923));
+console.log(testPrime(84923));
